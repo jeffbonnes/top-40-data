@@ -7130,9 +7130,9 @@
     "showName": "Top 40 Countdown (Last Show)"
   },
   "1998-03-28": {
-    "showDate": "1998-03-28 (Return of AT40)",
+    "showDate": "1998-03-28",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Return of AT40)"
   },
   "1998-04-04": {
     "showDate": "1998-04-04",
@@ -7850,14 +7850,14 @@
     "showName": "American Top 40"
   },
   "2000-12-23": {
-    "showDate": "2000-12-23 (Top 100 of 2000 Pt. 1)",
+    "showDate": "2000-12-23",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2000 Pt. 1)"
   },
   "2000-12-30": {
-    "showDate": "2000-12-30 (Top 100 of 2000 Pt. 2)",
+    "showDate": "2000-12-30",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2000 Pt. 2)"
   },
   "2001-01-06": {
     "showDate": "2001-01-06",
@@ -8110,19 +8110,19 @@
     "showName": "American Top 40"
   },
   "2001-12-22": {
-    "showDate": "2001-12-22 (Top 100 of 2001 Pt. 1)",
+    "showDate": "2001-12-22",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2001 Pt. 1)"
   },
   "2001-12-29": {
-    "showDate": "2001-12-29 (Top 100 of 2001 Pt. 2)",
+    "showDate": "2001-12-29",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2001 Pt. 2)"
   },
   "2002-01-05": {
     "showDate": "2002-01-05",
     "host": "Ed McMann",
-    "showName": "Americans Top 40"
+    "showName": "American Top 40"
   },
   "2002-01-12": {
     "showDate": "2002-01-12",
@@ -8370,14 +8370,14 @@
     "showName": "American Top 40"
   },
   "2002-12-21": {
-    "showDate": "2002-12-21 (Top 100 of 2002 Pt. 1)",
+    "showDate": "2002-12-21",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2002 Pt. 1)"
   },
   "2002-12-28": {
-    "showDate": "2002-12-28 (Top 100 of 2002 Pt. 2)",
+    "showDate": "2002-12-28",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2002 Pt. 2)"
   },
   "2003-01-04": {
     "showDate": "2003-01-04",
@@ -8630,18 +8630,18 @@
     "showName": "American Top 40"
   },
   "2003-12-20": {
-    "showDate": "2003-12-20 (Top 100 of 2003 Pt. 1)",
+    "showDate": "2003-12-20",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2003 Pt. 1)"
   },
   "2003-12-27": {
-    "showDate": "2003-12-27 (Top 100 of 2003 Pt. 2)",
+    "showDate": "2003-12-27",
     "host": "Casey Kasem",
-    "showName": "American Top 40"
+    "showName": "American Top 40 (Top 100 of 2003 Pt. 2)"
   },
   "2004-01-03": {
     "showDate": "2004-01-03",
-    "host": "Casey Kasem (Last Casey Show)",
-    "showName": "American Top 40"
+    "host": "Casey Kasem",
+    "showName": "American Top 40 (Last Casey Show)"
   }
 }
